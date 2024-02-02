@@ -1,0 +1,16 @@
+.efectoimg:hover{
+    filter: opacity(50%);
+}
+
+
+@media all and (max-width: 576px){
+    .img-responsive{
+        height: 250px;
+        object-fit: cover;
+    }
+}
+
+.boton{
+    background-color: #239089;
+    color: rgb(255, 255, 255);
+}
